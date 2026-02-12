@@ -1,0 +1,14 @@
+pyproject.toml
+src/dataviva_desafio/__init__.py
+src/dataviva_desafio/__main__.py
+src/dataviva_desafio/desafio1_fizzbuzz.py
+src/dataviva_desafio/desafio2_palindromo.py
+src/dataviva_desafio/desafio3_duplicados.py
+src/dataviva_desafio/desafio4_parenteses.py
+src/dataviva_desafio/desafio5_agrupamento.py
+src/dataviva_desafio.egg-info/PKG-INFO
+src/dataviva_desafio.egg-info/SOURCES.txt
+src/dataviva_desafio.egg-info/dependency_links.txt
+src/dataviva_desafio.egg-info/top_level.txt
+tests/test_desafios.py
+tests/test_execucao.py
